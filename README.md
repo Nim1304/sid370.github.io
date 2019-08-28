@@ -1,2 +1,0 @@
-# coursera-frontend
-Coursera course
